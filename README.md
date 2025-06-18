@@ -1,11 +1,11 @@
 # ⚡ TeslaXperience 🚗  
-> ⚡ A fully responsive Tesla website clone built with React.js. Features scroll animations via react-reveal, reusable components, and dynamic car sections. Deployed with Firebase Hosting and optimized for cross-device performance.
+A fully responsive Tesla website clone built with React.js. Features scroll animations via react-reveal, reusable components, and dynamic car sections. Deployed with Firebase Hosting and optimized for cross-device performance.
 
 ---
 
 ## 🌐 Live Demo  
 👉 [Click here to view the live site]()  
-*Replace this link with your actual Firebase hosting URL*
+
 
 ---
 
@@ -44,7 +44,7 @@ TeslaXperience/
 ├── .firebaserc          # Firebase project config
 ├── firebase.json        # Firebase hosting config
 └── package.json         # Project metadata and dependencies
-
+---
 ## 🚀 Getting Started
 
 ---
@@ -82,7 +82,7 @@ firebase init
 
 # Deploy your app to Firebase Hosting
 firebase deploy
-
+---
 ## 📚 What I Learned
 
 ✅ React fundamentals and JSX  
@@ -90,10 +90,11 @@ firebase deploy
 ✅ Mobile-first design principles and responsiveness  
 ✅ Folder structuring & reusable components in React  
 ✅ Firebase CLI and deployment process
-
+---
 ## 👨‍💻 Author
 
 **Anurag Singh**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/curious-anurag/)  
 🌐 [Portfolio](https://anuragsingh-ux.github.io/Portfolio/) 
+---
