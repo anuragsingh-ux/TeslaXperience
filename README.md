@@ -45,38 +45,38 @@ Follow the steps below to run the project locally and optionally deploy it via F
 
 ## 🔧 Installation Steps
 
-# Clone the repo
+### Clone the repo
 git clone https://github.com/anuragsingh-ux/TeslaXperience.git
 
-# Navigate to the project folder
+### Navigate to the project folder
 cd TeslaXperience
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Start the development server
+### Start the development server
 npm start
 
 ---
 
 ## 🚀 Deployment (Firebase Hosting)
 
-# Install Firebase CLI globally (if not already installed)
+### Install Firebase CLI globally (if not already installed)
 npm install -g firebase-tools
 
-# Login to your Firebase account
+### Login to your Firebase account
 firebase login
 
-# Initialize Firebase in your project
+### Initialize Firebase in your project
 firebase init
 
-# Follow the prompts and select "Hosting"
-# Make sure to set the public directory to "build"
-# Run the build script before deploying
+### Follow the prompts and select "Hosting"
+### Make sure to set the public directory to "build"
+### Run the build script before deploying
 
 npm run build
 
-# Deploy your app to Firebase Hosting
+### Deploy your app to Firebase Hosting
 firebase deploy
 
 ---
