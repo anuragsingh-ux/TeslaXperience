@@ -44,28 +44,28 @@ A fully responsive Tesla website clone built with React.js. Features scroll anim
 
 ## 🔧 Installation Steps
 
-- Clone the repo
+# Clone the repo
 git clone https://github.com/anuragsingh-ux/TeslaXperience.git
 
-- Go to project folder
+# Go to project folder
 cd TeslaXperience
 
-- Install dependencies
+# Install dependencies
 npm install
 
-- Start development server
+# Start development server
 npm start
 
-- Install Firebase CLI (if not already installed)
+# Install Firebase CLI (if not already installed)
 npm install -g firebase-tools
 
-- Login to your Firebase account
+# Login to your Firebase account
 firebase login
 
-- Initialize Firebase in your project directory
+# Initialize Firebase in your project directory
 firebase init
 
-- Deploy your app to Firebase Hosting
+# Deploy your app to Firebase Hosting
 firebase deploy
 ---
 ### 📚 What I Learned
