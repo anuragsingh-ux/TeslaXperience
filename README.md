@@ -44,13 +44,13 @@ A fully responsive Tesla website clone built with React.js. Features scroll anim
 
 ## 🔧 Installation Steps
 
-# Clone the repo
+- Clone the repo
 git clone https://github.com/anuragsingh-ux/TeslaXperience.git
 
-# Go to project folder
+- Go to project folder
 cd TeslaXperience
 
-# Install dependencies
+- Install dependencies
 npm install
 
 # Start development server
