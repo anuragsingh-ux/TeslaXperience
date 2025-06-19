@@ -4,7 +4,7 @@ A fully responsive Tesla website clone built with React.js. Features scroll anim
 ---
 
 ## 🌐 Live Demo  
-👉 [Click here to view the live site]()  
+👉 [Click here to view the live site](https://anurag-teslaxperience.web.app/)  
 
 
 ---
@@ -69,7 +69,7 @@ firebase init
 # Deploy your app to Firebase Hosting
 firebase deploy
 ---
-## 📚 What I Learned
+### 📚 What I Learned
 
 ✅ React fundamentals and JSX  
 ✅ Handling scroll animations using `react-reveal`  
@@ -77,9 +77,9 @@ firebase deploy
 ✅ Folder structuring & reusable components in React  
 ✅ Firebase CLI and deployment process
 ---
-## 👨‍💻 Author
+### 👨‍💻 Author
 
-**Anurag Singh**
+# Anurag Singh
 
 🔗 [LinkedIn](https://www.linkedin.com/in/curious-anurag/)  
 🌐 [Portfolio](https://anuragsingh-ux.github.io/Portfolio/) 
