@@ -31,20 +31,6 @@ A fully responsive Tesla website clone built with React.js. Features scroll anim
 
 ---
 
-## 📁 Folder Structure
-
-```plaintext
-TeslaXperience/
-├── public/              # HTML template and public assets
-├── src/
-│   ├── components/      # Reusable React components
-│   ├── App.js           # Root component
-│   ├── index.js         # Entry point for React DOM rendering
-│   └── style.css        # Custom global styles
-├── .firebaserc          # Firebase project config
-├── firebase.json        # Firebase hosting config
-└── package.json         # Project metadata and dependencies
----
 ## 🚀 Getting Started
 
 ---
