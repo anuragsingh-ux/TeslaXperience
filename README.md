@@ -35,16 +35,15 @@ A fully responsive Tesla website clone built with React.js. Features scroll anim
 
 ---
 
-### 📦 Prerequisites
+## 📦 Prerequisites
 
 - Node.js installed  
 - Firebase CLI installed globally (for deployment)
 
 ---
 
-### 🔧 Installation Steps
+## 🔧 Installation Steps
 
-```bash
 # Clone the repo
 git clone https://github.com/anuragsingh-ux/TeslaXperience.git
 
@@ -77,10 +76,9 @@ firebase deploy
 ✅ Folder structuring & reusable components in React  
 ✅ Firebase CLI and deployment process
 ---
-### 👨‍💻 Author
+## 👨‍💻 Author
 
 # Anurag Singh
 
 🔗 [LinkedIn](https://www.linkedin.com/in/curious-anurag/)  
 🌐 [Portfolio](https://anuragsingh-ux.github.io/Portfolio/) 
----
